@@ -1,0 +1,11 @@
+/* ==UserStyle==
+@name           My Global Dark
+@namespace      github.com/sam-hansen/userCSS
+@version        0.1.0
+@description    A new dark userstyle
+@author         Sam Hansen
+==/UserStyle== */
+
+@-moz-document url-prefix("*://**") {
+    /* Insert code here... */
+}
